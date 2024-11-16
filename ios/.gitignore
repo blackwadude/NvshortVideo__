@@ -15,7 +15,7 @@ GeneratedPluginRegistrant.m
 .generated/
 
 dualVideo.mp4
-Frameworks/*
+# Frameworks/*
 
 *.pbxuser
 *.mode1v3

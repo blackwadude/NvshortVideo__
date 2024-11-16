@@ -38,7 +38,7 @@ Icon?
 
 build/
 .android/
-ios/Frameworks/
+# ios/Frameworks/
 .flutter-plugins
 .flutter-plugins-dependencies
 
