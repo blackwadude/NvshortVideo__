@@ -28,7 +28,7 @@ export 'package:nvshortvideo/src/video_config/theme/theme_element/nv_view_theme.
 
 // Custom
 
-export 'package:nvshortvideo/src/video_config/theme/Custom/nv_album_cell_theme.dart';
+export 'package:nvshortvideo/src/video_config/theme/custom/nv_album_cell_theme.dart';
 export 'package:nvshortvideo/src/video_config/theme/custom/nv_beauty_panel_theme.dart';
 export 'package:nvshortvideo/src/video_config/theme/custom/nv_caption_view_theme.dart';
 export 'package:nvshortvideo/src/video_config/theme/custom/nv_effect_time_range_view_theme.dart';
